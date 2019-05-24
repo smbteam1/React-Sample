@@ -1,0 +1,4 @@
+#Tue Apr 09 21:03:44 IST 2019
+base.0=/home/ankith/Projects/rough/socialappv2/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex
